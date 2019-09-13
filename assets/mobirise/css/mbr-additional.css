@@ -1208,49 +1208,69 @@ body {
 .cid-rBCcjR5oAN H2 {
   color: #ffffff;
 }
-.cid-rBFOtrTSx0 {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/raider-background-7-2000x1500.jpeg");
+.cid-rBYlSwtZPw {
+  padding-top: 105px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/raider-aar-footer-2000x531.jpeg");
 }
-.cid-rBFOtrTSx0 p {
+.cid-rBYlSwtZPw .navbar-logo {
+  width: 100px;
+  margin-bottom: 10px;
+  margin: auto;
+}
+.cid-rBYlSwtZPw .navbar-brand {
+  margin: auto;
+  width: 100%;
   text-align: center;
 }
-.cid-rBFOtrTSx0 .mbr-iconfont-social {
-  font-size: 1rem;
-  color: #000000;
-}
-.cid-rBFOtrTSx0 .social-list a:focus {
-  text-decoration: none;
-}
-.cid-rBFOtrTSx0 .text-copyright {
-  width: 100%;
-}
-.cid-rBFOtrTSx0 .img-logo-footer {
-  margin-right: 1rem;
-  max-width: 3rem;
-}
-.cid-rBFOtrTSx0 .text-logo-footer {
-  display: inline-block;
-  vertical-align: middle;
-  color: #ffffff;
-}
-.cid-rBFOtrTSx0 .logo-footer {
-  line-height: normal;
-}
-.cid-rBFOtrTSx0 .copyright {
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-}
-.cid-rBFOtrTSx0 .social-btns {
+.cid-rBYlSwtZPw .socicon {
+  font-size: 1.3rem;
+  background: #e9e9e9;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
   display: flex;
   -webkit-align-items: center;
   align-items: center;
   -webkit-justify-content: center;
   justify-content: center;
 }
-.cid-rBFOtrTSx0 .media-container-row {
-  -webkit-align-items: center;
-  align-items: center;
+.cid-rBYlSwtZPw .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.cid-rBYlSwtZPw .social-list .soc-item {
+  display: inline-block;
+  margin: 0 0.3rem;
+}
+.cid-rBYlSwtZPw .text2 {
+  color: #000000;
+  text-align: left;
+}
+.cid-rBYlSwtZPw .group-title {
+  text-align: left;
+  color: #000000;
+  padding-bottom: 0.2rem;
+}
+.cid-rBYlSwtZPw .logo-title {
+  text-align: center;
+}
+.cid-rBYlSwtZPw .logo-sub-title {
+  text-align: center;
+}
+.cid-rBYlSwtZPw .links {
+  text-align: center;
+  color: #656565;
+}
+.cid-rBYlSwtZPw .logo-sub-title i {
+  color: #9e9e9e;
+}
+.cid-rBYlSwtZPw .logo-title,
+.cid-rBYlSwtZPw .logo {
+  color: #000da1;
+}
+.cid-rBYlSwtZPw .links,
+.cid-rBYlSwtZPw .social-list {
+  color: #ff0202;
 }
